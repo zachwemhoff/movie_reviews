@@ -2,7 +2,7 @@ Iron Man 1
 ==========
 
 .. warning::
-    Movie spoilers from now on.
+    Movie spoilers
 
 Iron Man is a story about Tony Stark, a genius billionaire who owns his fathers
 weaponry company: Stark Industries. It starts by Tony giving a weapons demonstration
@@ -29,15 +29,15 @@ Important Characters
 
 * **Tony Stark**
 .. image:: tony.jpg
-    Played by: *Robert Downey Jr.* [#f3]_
+    Played by: *Robert Downey Jr.* [#f3]_Played by: Robert Downey Jr. <https://www.cheatsheet.com/entertainment/avengers-endgame-might-not-have-been-end-of-tony-stark-and-iron-man-fan-theory-says.html/>:
 
 * **Obadiah Stane**
 .. image:: obadiah.jpg
-    Played by: *Jeff Bridges* [#f2]_
+    Played by: *Jeff Bridges* [#f2]_Played by: Jeff Bridges <https://antagonists.fandom.com/wiki/Obadiah_Stane?file=StaneIronman.png>:
 
 * **Pepper Potts**
 .. image:: pepper.jpg
-    Played by: *Gwyneth Paltrow* [#f1]_
+    Played by: *Gwyneth Paltrow* [#f1]_Played by: Gwyneth Paltrow <http://media.photobucket.com/image/pepper%20potts/ArggieRules/Superheroes/Marvel/Iron%20Man/IronMan-13.jpg>:
 
 
 Extra Information
