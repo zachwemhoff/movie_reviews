@@ -32,7 +32,8 @@ houses. Harry then meets Draco Malfoy, one of the movie's antagonists. Draco
 asks if Harry would like to be his friend and part of Slytherin house. Harry
 declines and asks the sorting hat to put him in Gryffindor and is friends with
 Ron and Hermione. Those friends would stick with Harry until the final Battle
-of Hogwarts.
+of Hogwarts. That scene can be found
+`here <https://www.youtube.com/watch?v=x8kshJO2PG0>`_.
 
 If you need help, ask for it.
 One common flaw that Harry Potter has throughout the franchise is that whenever
