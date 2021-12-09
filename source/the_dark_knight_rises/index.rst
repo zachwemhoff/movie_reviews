@@ -1,65 +1,87 @@
 The Dark Knight Rises
 =====================
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
-efficitur vestibulum. Praesent lacinia tellus cursus tortor condimentum, nec
-tempus nibh aliquam. Sed id pulvinar risus. Morbi elementum odio iaculis massa
-fermentum, vitae posuere urna interdum. Quisque eu massa sapien. Ut vel nunc sit
-amet enim fermentum ultricies pharetra sit amet est.
+.. figure:: the_dark_knight_rises_key_art.jpg
+   :width: 300px
 
-Subheading
-----------
+   Warner Bros. Entertainment Inc. [#f1]_
 
-Cras pharetra ut felis nec
-feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
-congue nisi id elit fringilla varius. Quisque maximus nec nisl id egestas. Fusce
-sagittis, metus at porta eleifend, dui massa ullamcorper risus, in tempus sem
-quam id sapien. Vivamus tempor ligula id nunc lobortis posuere. Sed eget ipsum
-velit. Nulla vulputate ipsum sed magna porttitor, sit amet elementum ante ultricies.
-Nam scelerisque lectus sodales erat iaculis, vitae pellentesque magna facilisis.
+Rating
+------
 
-Aliquam ex lorem, molestie at finibus quis, ullamcorper et purus. Pellentesque
-habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur
-ridiculus mus. Vivamus dictum interdum pulvinar.
+8/10 Stars
 
-In molestie augue id orci
-aliquet vehicula. Donec ullamcorper, lectus in molestie consequat, magna erat
-rhoncus sapien, sit amet semper ante elit non purus. Cras ac laoreet neque.
-Aenean maximus lacus elementum neque ultricies, tristique tincidunt lacus
-lobortis. Proin molestie bibendum neque et euismod. Aliquam eu dictum diam.
-Pellentesque quis porta urna.
+Rating Process
+^^^^^^^^^^^^^^
+Bolded text is equal to rating given.
 
-Subheading
-----------
+==========    =========     ========    =======
+Category      2 Stars       1 Star      0 Stars
+==========    =========     ========    =======
+Actors        Great         **Okay**      Poor
+Plot          Great         **Okay**      Poor
+Directing     **Great**     Okay          Poor
+Visual        **Great**     Okay          Poor
+Music         **Great**     Okay          Poor
+==========    =========     ========    =======
 
-Aliquam tempus urna diam, eu sagittis magna porta eu. Fusce aliquam nunc vitae
-lectus vulputate, quis commodo augue molestie. Vestibulum fermentum nunc odio,
-et dapibus eros porttitor at. Phasellus auctor, elit nec ultricies fermentum,
-sem augue volutpat mi, eget malesuada metus purus ut dolor. Aenean posuere
-tortor ligula, vitae ultrices tellus eleifend ac. Morbi velit magna,
-sollicitudin vitae aliquet sed, tincidunt non enim. Vivamus tempus eros ac
-purus varius suscipit. Aliquam eu egestas metus.
+Review
+------
 
-Morbi augue turpis, imperdiet non turpis quis, consequat varius quam.
-Suspendisse imperdiet dapibus arcu viverra aliquam. Fusce eu mauris turpis.
-Nullam auctor, purus et imperdiet tristique, lacus lorem vehicula sapien,
-a tempus quam ex vitae mi. Cras nec lobortis mi. Integer ultricies ornare
-sagittis. Praesent elementum sem justo, vel rhoncus orci fringilla vitae.
-Sed gravida urna neque, vel convallis metus dapibus ut. Mauris euismod quam
-ante, quis interdum erat viverra id. Aliquam bibendum laoreet odio at imperdiet.
-Morbi placerat, leo id tincidunt iaculis, nulla nunc luctus massa, et vulputate
-nisi est et nibh. In gravida ut ligula non sodales. Phasellus porttitor varius
-iaculis.
+*The Dark Knight Rises* is another high rated movie in my ratings. This movie
+grades out well in my ranking system because of how great the five aspects below
+rank.
 
-Maecenas malesuada blandit tellus, id fringilla sem tempor eget. Morbi maximus
-euismod bibendum. Maecenas sit amet dolor ut orci tristique elementum.
-Suspendisse scelerisque porta metus, at tincidunt mi. Duis et mauris at enim
-finibus maximus. Nunc vel justo ex.
+Actors
+^^^^^^
 
-Vivamus ultricies eros ante, nec egestas
-lorem fermentum id. Aliquam erat volutpat. Aenean tempus eu mi a elementum.
-Donec sit amet iaculis sapien. Proin imperdiet hendrerit sem quis tempus.
-Etiam metus augue, ornare consequat magna ut, malesuada mollis erat. Etiam
-porta efficitur sapien sed congue. In tristique est urna, sit amet varius
-enim finibus sed.
+The acting in *The Dark Knight* is good, but not great earning it an **Okay**
+rating on my scale, or 1 star. Christian Bale, Tom Hardy, and Anne Hathaway
+all produce solid performances. The overall acting in the movie does not quite
+live up to Heath Ledger's performance as the Joker in the prequel to this movie,
+see :ref:`my-reference-label`. Even so, Bale Hardy , and Hathaway produce good
+performances that lead to a successful and interesting movie. Therefore, this
+movie scores one star for the acting quality.
+
+Plot
+^^^^
+The plot continues the **Okay** rating for *The Dark Knight Rises*, once again
+earning the movie 1 star for this category. The story line is interesting.
+However, the plot seems to be guilty of overreaching at times. It focuses more
+on action and fighting instead of the story. The ending counteracts this
+problem by tying up loose ends and giving the audience a happy ending.
+Therefore, the film scores one star for the plot.
+
+Directing
+^^^^^^^^^
+Once again, director Christopher Nolan did an exceptional job directing
+*The Dark Knight Rises*, earning the movie 2 stars for this category. Nolan
+once again successfully used big name actors that fit their roles. Additionally,
+Nolan intrigued fans with *The Dark Knight*, leading to lots of buzz around.
+The *Dark Knight Rises*. Therefore, under Christopher Nolan's direction,
+this film earns two stars for the "Directing" category.
+
+Visual
+^^^^^^
+Visually, this film earns the 2 stars and the **Great** rating for this
+category. The film uses impressive CGI as well as using real controlled events
+to impress in the visual category. The fight scenes are well done and appear
+very nicely on the screen. Also, the addition of winter weather also helps the
+visuals in *The Dark Knight Rises* pop. These visual aspects of the film are
+why it earn two stars in the "Visual" category.
+
+Music
+^^^^^
+*The Dark Knight Rises* finishes its 8/10 rating with 2 stars and the **Great**
+rating in the "Music" category. The music throughout this film is the finishing
+touch to the quality of this film. It brings out the emotions of the movie
+in such a prevalent way, especially as this trilogy comes to an end. Hans Zimmer
+stayed for the completion of the trilogy and made a score for this film that
+evokes emotion throughout. Therefore, this film earns 2 stars for this category.
+
+
+
+
+.. [#f1] "`Warner Bros. Entertainment Inc.
+   <https://www.warnerbros.com/movies/dark-knight-rises>`_".
+   Warner Bros. Entertainment Inc. 2012. Retrieved 2021-12-5.

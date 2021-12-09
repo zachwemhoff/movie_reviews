@@ -28,15 +28,22 @@ Important Characters
 --------------------
 
 * **Tony Stark**
-.. image:: tony.jpg
+
+.. figure:: img/tony.jpg
+    :width: 400px
+
     Played by: *Robert Downey Jr.* [#f3]_
 
 * **Obadiah Stane**
-.. image:: obadiah.jpg
+
+.. figure:: img/obadiah.png
+
     Played by: *Jeff Bridges* [#f2]_
 
 * **Pepper Potts**
-.. image:: pepper.jpg
+
+.. figure:: img/pepper.jpg
+
     Played by: *Gwyneth Paltrow* [#f1]_
 
 
@@ -48,6 +55,7 @@ Extra Information
 +==============+================+
 | Iron Man     | `Apple Music`_ |
 +--------------+----------------+
+
 .. _Apple Music: https://music.apple.com/us/album/iron-man-original-motion-picture-soundtrack/278216296
 
 

@@ -1,65 +1,113 @@
 The Dark Knight
 ===============
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
-efficitur vestibulum. Praesent lacinia tellus cursus tortor condimentum, nec
-tempus nibh aliquam. Sed id pulvinar risus. Morbi elementum odio iaculis massa
-fermentum, vitae posuere urna interdum. Quisque eu massa sapien. Ut vel nunc sit
-amet enim fermentum ultricies pharetra sit amet est.
+.. figure:: the_dark_knight_key_art.jpg
+   :width: 300px
 
-Subheading
-----------
+   Warner Bros. Entertainment Inc. [#f1]_
 
-Cras pharetra ut felis nec
-feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
-congue nisi id elit fringilla varius. Quisque maximus nec nisl id egestas. Fusce
-sagittis, metus at porta eleifend, dui massa ullamcorper risus, in tempus sem
-quam id sapien. Vivamus tempor ligula id nunc lobortis posuere. Sed eget ipsum
-velit. Nulla vulputate ipsum sed magna porttitor, sit amet elementum ante ultricies.
-Nam scelerisque lectus sodales erat iaculis, vitae pellentesque magna facilisis.
+Rating
+------
 
-Aliquam ex lorem, molestie at finibus quis, ullamcorper et purus. Pellentesque
-habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur
-ridiculus mus. Vivamus dictum interdum pulvinar.
+10/10 Stars
 
-In molestie augue id orci
-aliquet vehicula. Donec ullamcorper, lectus in molestie consequat, magna erat
-rhoncus sapien, sit amet semper ante elit non purus. Cras ac laoreet neque.
-Aenean maximus lacus elementum neque ultricies, tristique tincidunt lacus
-lobortis. Proin molestie bibendum neque et euismod. Aliquam eu dictum diam.
-Pellentesque quis porta urna.
+Rating Process
+^^^^^^^^^^^^^^
+Bolded text is equal to rating given.
 
-Subheading
-----------
+==========    =========     ======    =======
+Category      2 Stars       1 Star    0 Stars
+==========    =========     ======    =======
+Actors        **Great**     Okay      Poor
+Plot          **Great**     Okay      Poor
+Directing     **Great**     Okay      Poor
+Visual        **Great**     Okay      Poor
+Music         **Great**     Okay      Poor
+==========    =========     ======    =======
 
-Aliquam tempus urna diam, eu sagittis magna porta eu. Fusce aliquam nunc vitae
-lectus vulputate, quis commodo augue molestie. Vestibulum fermentum nunc odio,
-et dapibus eros porttitor at. Phasellus auctor, elit nec ultricies fermentum,
-sem augue volutpat mi, eget malesuada metus purus ut dolor. Aenean posuere
-tortor ligula, vitae ultrices tellus eleifend ac. Morbi velit magna,
-sollicitudin vitae aliquet sed, tincidunt non enim. Vivamus tempus eros ac
-purus varius suscipit. Aliquam eu egestas metus.
 
-Morbi augue turpis, imperdiet non turpis quis, consequat varius quam.
-Suspendisse imperdiet dapibus arcu viverra aliquam. Fusce eu mauris turpis.
-Nullam auctor, purus et imperdiet tristique, lacus lorem vehicula sapien,
-a tempus quam ex vitae mi. Cras nec lobortis mi. Integer ultricies ornare
-sagittis. Praesent elementum sem justo, vel rhoncus orci fringilla vitae.
-Sed gravida urna neque, vel convallis metus dapibus ut. Mauris euismod quam
-ante, quis interdum erat viverra id. Aliquam bibendum laoreet odio at imperdiet.
-Morbi placerat, leo id tincidunt iaculis, nulla nunc luctus massa, et vulputate
-nisi est et nibh. In gravida ut ligula non sodales. Phasellus porttitor varius
-iaculis.
+Review
+------
 
-Maecenas malesuada blandit tellus, id fringilla sem tempor eget. Morbi maximus
-euismod bibendum. Maecenas sit amet dolor ut orci tristique elementum.
-Suspendisse scelerisque porta metus, at tincidunt mi. Duis et mauris at enim
-finibus maximus. Nunc vel justo ex.
+*The Dark Knight* is the highest rated movie in my ratings. This movie grades
+out so well in my ranking system because of how great the five aspects below
+rank.
 
-Vivamus ultricies eros ante, nec egestas
-lorem fermentum id. Aliquam erat volutpat. Aenean tempus eu mi a elementum.
-Donec sit amet iaculis sapien. Proin imperdiet hendrerit sem quis tempus.
-Etiam metus augue, ornare consequat magna ut, malesuada mollis erat. Etiam
-porta efficitur sapien sed congue. In tristique est urna, sit amet varius
-enim finibus sed.
+.. _my-reference-label:
+
+Actors
+^^^^^^
+
+The acting in *The Dark Knight* is phenomenal, earning it a **Great** rating on
+my scale, or 2 stars. Heath Ledger, Christian Bale, and Aaron Eckhart all
+produce incredibly compelling performances. The late Heath Ledger, who passed
+before the movie was released, won an Academy Award and Golden Globe for best
+supporting actor for his role as the Joker. Additionally, his performance earned
+him many other awards listed below. His portrayal of the Joker is
+widely considered one of the greatest acting performances of all time.
+Therefore, this movie scores two stars for the acting quality.
+
+List of Major Awards for Heath Ledger's Joker Performance
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Oscar for Best Performance by an Actor in a Supporting Role
+* BAFTA Film Award for Best Supporting Actor
+* AFI International Award for Best Actor
+* MTV Movie Award for Best Villain
+* International Online Cinema Awards (INOCA) for Best Supporting Actor [#f2]_
+
+Plot
+^^^^
+The plot continues the **Great** rating for *The Dark Knight*, once again
+earning the movie 2 stars for this category. The story line is captivating and
+interesting. Additionally, the story is easy to follow. The ending leaves
+viewers in suspense and with a renewed sense of hope. Therefore, the film scores
+two stars for the plot.
+
+Directing
+^^^^^^^^^
+Director Christopher Nolan did an exceptional job directing *The Dark Knight*,
+earning the movie another 2 stars for this category. Nolan successfully used
+big name actors that fit their roles perfectly. Additionally, Nolan was able to
+create a superhero movie that attracted more than just comic book fans. This
+allowed *The Dark Knight* to be regarded as a cinematic masterpiece, and not
+just another superhero movie. Therefore, under Christopher Nolan's direction,
+this film earns two stars for the "Directing" category.
+
+Visual
+^^^^^^
+Visually, this film earns the 2 stars and the **Great** rating for this
+category. This rating is achieved because of the great one-shot photos that can
+be taken from the film as well. In Addition, the film uses impressive CGI,
+computer-generated imagery, as well as using real controlled events to impress
+in the visual category. One example of this is when Heath Ledger's Joker blows
+up Gotham General Hospital the film crew used an actual building that was set to
+be destroyed and blew it up themselves. The movie scene can be viewed `here
+<https://www.youtube.com/watch?v=pVz0k5AzM6A>`_. This commitment and the results
+of it within the visuals of the film are why it earn two stars in the "Visual"
+category.
+
+.. warning::
+    Loud noises and intense explosions are present in the linked movie scene.
+    Viewers be advised.
+
+Music
+^^^^^
+*The Dark Knight* finishes its 10/10 rating with 2 stars and the **Great**
+rating in the "Music" category. The music throughout this film is the finishing
+touch to the completeness of this film. It brings out the emotions of the movie
+in such a prevalent way. James Newton Howard and Hans Zimmer made a score for
+this film that evokes emotion and intrigues the audience. Therefore, this film
+earns 2 stars for this category.
+
+
+
+
+
+.. [#f1] "`Warner Bros. Entertainment Inc.
+   <https://www.warnerbros.com/movies/dark-knight#about>`_".
+   Warner Bros. Entertainment Inc. 2008. Retrieved 2021-12-4.
+
+.. [#f2] "`IMDb
+   <https://www.imdb.com/name/nm0005132/awards>`_".
+   IMDb 2009. Retrieved 2021-12-8.
