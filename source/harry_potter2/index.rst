@@ -1,65 +1,57 @@
-Harry Potter
-============
+Harry Potter Continued
+======================
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
-efficitur vestibulum. Praesent lacinia tellus cursus tortor condimentum, nec
-tempus nibh aliquam. Sed id pulvinar risus. Morbi elementum odio iaculis massa
-fermentum, vitae posuere urna interdum. Quisque eu massa sapien. Ut vel nunc sit
-amet enim fermentum ultricies pharetra sit amet est.
+Ranking the Movies
+------------------
 
-Subheading
+In Reverse Order
+
+* Chamber of Secrets
+* Sorcerer’s Stone
+* Prisoner of Azkaban
+* Goblet of Fire
+* Order of the Phoenix
+* Half-Blood Prince
+* Deathly Hallows Pt. 1 & 2
+
+This is incredibly difficult to rank some of the best movies of all time.
+However, if I were ranking all of the Star Wars movies and all of the Harry
+Potter movies, I would rank Star Wars 1-9 right below Harry Potter 1-7.
+
+The Lessons
+-----------
+
+This is incredibly difficult to rank some of the best movies of all time.
+However, if I were ranking all of the Star Wars movies and all of the Harry
+Potter movies, I would rank Star Wars 1-9 right below Harry Potter 1-7.
+
+Choose your friends wisely
+In the first movie of the franchise, Harry finds himself in the great hall where
+he and the other kids in their class are being sorted into their different
+houses. Harry then meets Draco Malfoy, one of the movie's antagonists. Draco
+asks if Harry would like to be his friend and part of Slytherin house. Harry
+declines and asks the sorting hat to put him in Gryffindor and is friends with
+Ron and Hermione. Those friends would stick with Harry until the final Battle
+of Hogwarts.
+
+If you need help, ask for it.
+One common flaw that Harry Potter has throughout the franchise is that whenever
+he is faced with a challenge, he always feels the need to do it alone. However,
+each time Harry nearly goes wandering off on his own, his pals Ron and Hermione
+always tell him that he needs the other two. Every time it usually ends up
+working in their favor.
+
+Death is inevitable but, love is immortal
+One of my favorite stories in the movies is Lily Potter protecting her son
+Harry with love even after being killed by Voldemort. Even though she was gone,
+she saved her son with a charm that saved him from suffering the same fate she
+did.
+
+Conclusion
 ----------
 
-Cras pharetra ut felis nec
-feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
-congue nisi id elit fringilla varius. Quisque maximus nec nisl id egestas. Fusce
-sagittis, metus at porta eleifend, dui massa ullamcorper risus, in tempus sem
-quam id sapien. Vivamus tempor ligula id nunc lobortis posuere. Sed eget ipsum
-velit. Nulla vulputate ipsum sed magna porttitor, sit amet elementum ante ultricies.
-Nam scelerisque lectus sodales erat iaculis, vitae pellentesque magna facilisis.
-
-Aliquam ex lorem, molestie at finibus quis, ullamcorper et purus. Pellentesque
-habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur
-ridiculus mus. Vivamus dictum interdum pulvinar.
-
-In molestie augue id orci
-aliquet vehicula. Donec ullamcorper, lectus in molestie consequat, magna erat
-rhoncus sapien, sit amet semper ante elit non purus. Cras ac laoreet neque.
-Aenean maximus lacus elementum neque ultricies, tristique tincidunt lacus
-lobortis. Proin molestie bibendum neque et euismod. Aliquam eu dictum diam.
-Pellentesque quis porta urna.
-
-Subheading
-----------
-
-Aliquam tempus urna diam, eu sagittis magna porta eu. Fusce aliquam nunc vitae
-lectus vulputate, quis commodo augue molestie. Vestibulum fermentum nunc odio,
-et dapibus eros porttitor at. Phasellus auctor, elit nec ultricies fermentum,
-sem augue volutpat mi, eget malesuada metus purus ut dolor. Aenean posuere
-tortor ligula, vitae ultrices tellus eleifend ac. Morbi velit magna,
-sollicitudin vitae aliquet sed, tincidunt non enim. Vivamus tempus eros ac
-purus varius suscipit. Aliquam eu egestas metus.
-
-Morbi augue turpis, imperdiet non turpis quis, consequat varius quam.
-Suspendisse imperdiet dapibus arcu viverra aliquam. Fusce eu mauris turpis.
-Nullam auctor, purus et imperdiet tristique, lacus lorem vehicula sapien,
-a tempus quam ex vitae mi. Cras nec lobortis mi. Integer ultricies ornare
-sagittis. Praesent elementum sem justo, vel rhoncus orci fringilla vitae.
-Sed gravida urna neque, vel convallis metus dapibus ut. Mauris euismod quam
-ante, quis interdum erat viverra id. Aliquam bibendum laoreet odio at imperdiet.
-Morbi placerat, leo id tincidunt iaculis, nulla nunc luctus massa, et vulputate
-nisi est et nibh. In gravida ut ligula non sodales. Phasellus porttitor varius
-iaculis.
-
-Maecenas malesuada blandit tellus, id fringilla sem tempor eget. Morbi maximus
-euismod bibendum. Maecenas sit amet dolor ut orci tristique elementum.
-Suspendisse scelerisque porta metus, at tincidunt mi. Duis et mauris at enim
-finibus maximus. Nunc vel justo ex.
-
-Vivamus ultricies eros ante, nec egestas
-lorem fermentum id. Aliquam erat volutpat. Aenean tempus eu mi a elementum.
-Donec sit amet iaculis sapien. Proin imperdiet hendrerit sem quis tempus.
-Etiam metus augue, ornare consequat magna ut, malesuada mollis erat. Etiam
-porta efficitur sapien sed congue. In tristique est urna, sit amet varius
-enim finibus sed.
+Even though there will never be another Harry Potter movie in theaters, these
+movies will always be a favorite of mine and a favorite of so many around the
+world. Every once in a while, I will turn these movies on and watch them for
+several hours in a row. One day I cannot wait to share them with my children
+and hope they enjoy them as I do.
