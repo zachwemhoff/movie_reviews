@@ -1,65 +1,59 @@
 Iron Man 1
 ==========
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
-efficitur vestibulum. Praesent lacinia tellus cursus tortor condimentum, nec
-tempus nibh aliquam. Sed id pulvinar risus. Morbi elementum odio iaculis massa
-fermentum, vitae posuere urna interdum. Quisque eu massa sapien. Ut vel nunc sit
-amet enim fermentum ultricies pharetra sit amet est.
+.. warning::
+    Movie spoilers
 
-Subheading
-----------
+Iron Man is a story about Tony Stark, a genius billionaire who owns his fathers
+weaponry company: Stark Industries. It starts by Tony giving a weapons demonstration
+in Iraq. He then gets kidnapped in an explosion, leaving him with a major injury
+to his chest. He wakes up with a car battery attached to his chest and is being
+forced to build a his own missile from a cave in Iraq. He finds a way to build a
+battery that can sit inside his chest and keep him alive. He then finds out that
+battery can also power a suit, which he builds as his escape route out of there.
+Once Tony is back home he works more on the suit and makes essentially the Iron
+Man you know of today. However a man named Obadiah Stane, the man who was put in
+charge of Stark Industries, wants to use Tony's technology against him.
 
-Cras pharetra ut felis nec
-feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
-congue nisi id elit fringilla varius. Quisque maximus nec nisl id egestas. Fusce
-sagittis, metus at porta eleifend, dui massa ullamcorper risus, in tempus sem
-quam id sapien. Vivamus tempor ligula id nunc lobortis posuere. Sed eget ipsum
-velit. Nulla vulputate ipsum sed magna porttitor, sit amet elementum ante ultricies.
-Nam scelerisque lectus sodales erat iaculis, vitae pellentesque magna facilisis.
+I personally liked this movie very much. I think Tony's character is very unique
+because one moment he is gambling in a casino and he can have such an "I don't
+care" attitude, and then the next moment he is building the most insane suit
+known to mankind. Tony has a funny personality and keeps that throughout the
+movie even in scenarios which you wouldn't think should be comedic, which makes
+it that much better. I also love how out of all the typical superheroes, Iron
+Man, is a normal human. When I say normal I mean no powers, or superhuman abilities.
+Tony is just a genius who uses his resources to help save the world.
 
-Aliquam ex lorem, molestie at finibus quis, ullamcorper et purus. Pellentesque
-habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur
-ridiculus mus. Vivamus dictum interdum pulvinar.
+Important Characters
+--------------------
 
-In molestie augue id orci
-aliquet vehicula. Donec ullamcorper, lectus in molestie consequat, magna erat
-rhoncus sapien, sit amet semper ante elit non purus. Cras ac laoreet neque.
-Aenean maximus lacus elementum neque ultricies, tristique tincidunt lacus
-lobortis. Proin molestie bibendum neque et euismod. Aliquam eu dictum diam.
-Pellentesque quis porta urna.
+* **Tony Stark**
+.. image:: tony.jpg
+    Played by: *Robert Downey Jr.* [#f3]_
 
-Subheading
-----------
+* **Obadiah Stane**
+.. image:: obadiah.jpg
+    Played by: *Jeff Bridges* [#f2]_
 
-Aliquam tempus urna diam, eu sagittis magna porta eu. Fusce aliquam nunc vitae
-lectus vulputate, quis commodo augue molestie. Vestibulum fermentum nunc odio,
-et dapibus eros porttitor at. Phasellus auctor, elit nec ultricies fermentum,
-sem augue volutpat mi, eget malesuada metus purus ut dolor. Aenean posuere
-tortor ligula, vitae ultrices tellus eleifend ac. Morbi velit magna,
-sollicitudin vitae aliquet sed, tincidunt non enim. Vivamus tempus eros ac
-purus varius suscipit. Aliquam eu egestas metus.
+* **Pepper Potts**
+.. image:: pepper.jpg
+    Played by: *Gwyneth Paltrow* [#f1]_
 
-Morbi augue turpis, imperdiet non turpis quis, consequat varius quam.
-Suspendisse imperdiet dapibus arcu viverra aliquam. Fusce eu mauris turpis.
-Nullam auctor, purus et imperdiet tristique, lacus lorem vehicula sapien,
-a tempus quam ex vitae mi. Cras nec lobortis mi. Integer ultricies ornare
-sagittis. Praesent elementum sem justo, vel rhoncus orci fringilla vitae.
-Sed gravida urna neque, vel convallis metus dapibus ut. Mauris euismod quam
-ante, quis interdum erat viverra id. Aliquam bibendum laoreet odio at imperdiet.
-Morbi placerat, leo id tincidunt iaculis, nulla nunc luctus massa, et vulputate
-nisi est et nibh. In gravida ut ligula non sodales. Phasellus porttitor varius
-iaculis.
 
-Maecenas malesuada blandit tellus, id fringilla sem tempor eget. Morbi maximus
-euismod bibendum. Maecenas sit amet dolor ut orci tristique elementum.
-Suspendisse scelerisque porta metus, at tincidunt mi. Duis et mauris at enim
-finibus maximus. Nunc vel justo ex.
+Extra Information
+-----------------
 
-Vivamus ultricies eros ante, nec egestas
-lorem fermentum id. Aliquam erat volutpat. Aenean tempus eu mi a elementum.
-Donec sit amet iaculis sapien. Proin imperdiet hendrerit sem quis tempus.
-Etiam metus augue, ornare consequat magna ut, malesuada mollis erat. Etiam
-porta efficitur sapien sed congue. In tristique est urna, sit amet varius
-enim finibus sed.
++--------------+----------------+
+| Soundtrack   | Link           |
++==============+================+
+| Iron Man     | `Apple Music`_ |
++--------------+----------------+
+.. _Apple Music: https://music.apple.com/us/album/iron-man-original-motion-picture-soundtrack/278216296
+
+
+.. [#f1] "`Played by: Gwyneth Paltrow <http://media.photobucket.com/image/pepper%20potts/ArggieRules/Superheroes/Marvel/Iron%20Man/IronMan-13.jpg>`_".
+    Photobucket. Retrieved 2021-12-08
+.. [#f2] "`Played by: Jeff Bridges <https://antagonists.fandom.com/wiki/Obadiah_Stane?file=StaneIronman.png>`_".
+    Antagonist Wiki. 2017. Retrieved 2021-12-08.
+.. [#f3] "`Played by: Robert Downey Jr. <https://www.cheatsheet.com/entertainment/avengers-endgame-might-not-have-been-end-of-tony-stark-and-iron-man-fan-theory-says.html/>`_".
+    Showbiz Cheat Sheet. 2019. Retrieved 2021-12-08.
