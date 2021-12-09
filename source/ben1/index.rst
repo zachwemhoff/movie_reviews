@@ -5,15 +5,15 @@ Iron Man 1
     Movie spoilers from now on.
 
 Iron Man is a story about Tony Stark, a genius billionaire who owns his fathers
-weaponry company: Stark Industries. It starts by Tony giving a weapons demonstration in Iraq. He
-then gets kidnapped in an explosion, leaving him with a major injury to his chest.
-He wakes up with a car battery attached to his chest and is being forced to build
-a his own missile from a cave in Iraq. He finds a way to build a battery that can
-sit inside his chest and keep him alive. He then finds out that battery can also
-power a suit, which he builds as his escape route out of there. Once Tony is back
-home he works more on the suit and makes essentially the Iron Man you know of
-today. However a man named Obadiah Stane, the man who was put in charge of Stark
-Industries, wants to use Tony's technology against him.
+weaponry company: Stark Industries. It starts by Tony giving a weapons demonstration
+in Iraq. He then gets kidnapped in an explosion, leaving him with a major injury
+to his chest. He wakes up with a car battery attached to his chest and is being
+forced to build a his own missile from a cave in Iraq. He finds a way to build a
+battery that can sit inside his chest and keep him alive. He then finds out that
+battery can also power a suit, which he builds as his escape route out of there.
+Once Tony is back home he works more on the suit and makes essentially the Iron
+Man you know of today. However a man named Obadiah Stane, the man who was put in
+charge of Stark Industries, wants to use Tony's technology against him.
 
 I personally liked this movie very much. I think Tony's character is very unique
 because one moment he is gambling in a casino and he can have such an "I don't
