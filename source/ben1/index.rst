@@ -15,6 +15,8 @@ Once Tony is back home he works more on the suit and makes essentially the Iron
 Man you know of today. However a man named Obadiah Stane, the man who was put in
 charge of Stark Industries, wants to use Tony's technology against him.
 
+My Review
+^^^^^^^^^
 I personally liked this movie very much. I think Tony's character is very unique
 because one moment he is gambling in a casino and he can have such an "I don't
 care" attitude, and then the next moment he is building the most insane suit
@@ -22,7 +24,22 @@ known to mankind. Tony has a funny personality and keeps that throughout the
 movie even in scenarios which you wouldn't think should be comedic, which makes
 it that much better. I also love how out of all the typical superheroes, Iron
 Man, is a normal human. When I say normal I mean no powers, or superhuman abilities.
-Tony is just a genius who uses his resources to help save the world.
+Tony is just a genius who uses his resources to help save the world. I liked the
+fact that everyone in the world knows who Iron Man really is behind the suit. I
+like that over trying to hide the identity as seen in other movies such as
+Spiderman and Batman. The addition of the S.H.I.E.L.D initiative was cool to
+see, in the fact that it will later bring in the Avengers Series, with Iron Man
+as the first member.
+
+
+Extra Information
+^^^^^^^^^^^^^^^^^
+
++--------------+----------------+---------------+
+| Soundtrack   | Link           | Artist        |
++==============+================+===============+
+| Iron Man     | `Apple Music`_ | Ramin Djawadi |
++--------------+----------------+---------------+
 
 Important Characters
 --------------------
@@ -43,18 +60,10 @@ Important Characters
 * **Pepper Potts**
 
 .. figure:: img/pepper.jpg
+    :width: 200px
 
     Played by: *Gwyneth Paltrow* [#f1]_
 
-
-Extra Information
------------------
-
-+--------------+----------------+---------------+
-| Soundtrack   | Link           | Artist        |
-+==============+================+===============+
-| Iron Man     | `Apple Music`_ | Ramin Djawadi |
-+--------------+----------------+---------------+
 
 .. _Apple Music: https://music.apple.com/us/album/iron-man-original-motion-picture-soundtrack/278216296
 
