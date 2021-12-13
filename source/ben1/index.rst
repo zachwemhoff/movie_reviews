@@ -50,17 +50,17 @@ Important Characters
 Extra Information
 -----------------
 
-+--------------+----------------+
-| Soundtrack   | Link           |
-+==============+================+
-| Iron Man     | `Apple Music`_ |
-+--------------+----------------+
++--------------+----------------+---------------+
+| Soundtrack   | Link           | Artist        |
++==============+================+===============+
+| Iron Man     | `Apple Music`_ | Ramin Djawadi |
++--------------+----------------+---------------+
 
 .. _Apple Music: https://music.apple.com/us/album/iron-man-original-motion-picture-soundtrack/278216296
 
 
 .. [#f1] "`Played by: Gwyneth Paltrow <http://media.photobucket.com/image/pepper%20potts/ArggieRules/Superheroes/Marvel/Iron%20Man/IronMan-13.jpg>`_".
-    Photobucket. Retrieved 2021-12-08
+    Photobucket. Retrieved 2021-12-08.
 .. [#f2] "`Played by: Jeff Bridges <https://antagonists.fandom.com/wiki/Obadiah_Stane?file=StaneIronman.png>`_".
     Antagonist Wiki. 2017. Retrieved 2021-12-08.
 .. [#f3] "`Played by: Robert Downey Jr. <https://www.cheatsheet.com/entertainment/avengers-endgame-might-not-have-been-end-of-tony-stark-and-iron-man-fan-theory-says.html/>`_".
