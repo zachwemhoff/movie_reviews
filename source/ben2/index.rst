@@ -33,7 +33,7 @@ outside. However behind the scenes he finds his love for his assistant Pepper.
 
 
 Extra Information
------------------
+^^^^^^^^^^^^^^^^^
 
 +--------------+----------------+---------+
 | Soundtrack   | Link           | Artist  |
