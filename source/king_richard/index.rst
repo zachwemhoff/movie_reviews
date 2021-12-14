@@ -1,65 +1,74 @@
-My Subject
-==========
+King Richard
+============
+.. warning::
+    This movie review may be a spoiler
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
-efficitur vestibulum. Praesent lacinia tellus cursus tortor condimentum, nec
-tempus nibh aliquam. Sed id pulvinar risus. Morbi elementum odio iaculis massa
-fermentum, vitae posuere urna interdum. Quisque eu massa sapien. Ut vel nunc sit
-amet enim fermentum ultricies pharetra sit amet est.
+King Richard is based on the true story of Venus and Serena Williams’s father,
+Richard Williams, and their glory to success in tennis. Richard Williams is
+determined, persistent, and stubborn in his vision and plans for his daughters
+to be the best tennis players in the world. Richard Williams in the film is
+played by Will Smith and he does a phenomenal job at portraying Richard Williams
+and his family dynamic so well. The film focuses on Richard Williams’ pursuit to
+secure a promising future for his daughters and displays the many adversities
+faced by families of color in the United States. There is a part in the film
+where child-protected services and the police are called on Richard Willams’s
+family because someone reported stating that their children were being abused.
 
-Subheading
-----------
+Main Actor and Actresses
+-------------------------
+===============  =================
+Actor/Actresses  Played as
+===============  =================
+Will Smith       Richard Williams
+Aunjanue Ellis   Brandi Williams
+Saniyya Sidney   Venus Williams
+Demi Singleton   Serena Williams
+===============  =================
 
-Cras pharetra ut felis nec
-feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
-congue nisi id elit fringilla varius. Quisque maximus nec nisl id egestas. Fusce
-sagittis, metus at porta eleifend, dui massa ullamcorper risus, in tempus sem
-quam id sapien. Vivamus tempor ligula id nunc lobortis posuere. Sed eget ipsum
-velit. Nulla vulputate ipsum sed magna porttitor, sit amet elementum ante ultricies.
-Nam scelerisque lectus sodales erat iaculis, vitae pellentesque magna facilisis.
+.. figure:: kr.jpg
+    :width: 300px
 
-Aliquam ex lorem, molestie at finibus quis, ullamcorper et purus. Pellentesque
-habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur
-ridiculus mus. Vivamus dictum interdum pulvinar.
+    Star Thrower Entertainment [#f1]_
 
-In molestie augue id orci
-aliquet vehicula. Donec ullamcorper, lectus in molestie consequat, magna erat
-rhoncus sapien, sit amet semper ante elit non purus. Cras ac laoreet neque.
-Aenean maximus lacus elementum neque ultricies, tristique tincidunt lacus
-lobortis. Proin molestie bibendum neque et euismod. Aliquam eu dictum diam.
-Pellentesque quis porta urna.
+Will Smith Performance
+----------------------
 
-Subheading
-----------
+Will Smith portrayed Richard Williams so well through his transformation to act
+and bring out the personality and sense of humor of Richard Williams. Will Smith
+was in character throughout the film allowing us to envision Richard Williams
+and not an actor trying to impersonate him.
 
-Aliquam tempus urna diam, eu sagittis magna porta eu. Fusce aliquam nunc vitae
-lectus vulputate, quis commodo augue molestie. Vestibulum fermentum nunc odio,
-et dapibus eros porttitor at. Phasellus auctor, elit nec ultricies fermentum,
-sem augue volutpat mi, eget malesuada metus purus ut dolor. Aenean posuere
-tortor ligula, vitae ultrices tellus eleifend ac. Morbi velit magna,
-sollicitudin vitae aliquet sed, tincidunt non enim. Vivamus tempus eros ac
-purus varius suscipit. Aliquam eu egestas metus.
+    * Through his accent of Richard Williams and his display of emotions, we were
+      able to see where Richard Williams’s values for his family come from.
+    * The film focuses on Venus and her glory to excel in tennis through the
+      consistent tennis coaching from her father and mother and the private
+      coaching in which Richard Williams would seek out the best coaches to
+      train her.
+    * Richard Williams was always there with his camera recording Venus’s
+      sessions for Serena to train from.
 
-Morbi augue turpis, imperdiet non turpis quis, consequat varius quam.
-Suspendisse imperdiet dapibus arcu viverra aliquam. Fusce eu mauris turpis.
-Nullam auctor, purus et imperdiet tristique, lacus lorem vehicula sapien,
-a tempus quam ex vitae mi. Cras nec lobortis mi. Integer ultricies ornare
-sagittis. Praesent elementum sem justo, vel rhoncus orci fringilla vitae.
-Sed gravida urna neque, vel convallis metus dapibus ut. Mauris euismod quam
-ante, quis interdum erat viverra id. Aliquam bibendum laoreet odio at imperdiet.
-Morbi placerat, leo id tincidunt iaculis, nulla nunc luctus massa, et vulputate
-nisi est et nibh. In gravida ut ligula non sodales. Phasellus porttitor varius
-iaculis.
+Venus and Serena Williams
+-------------------------
+Throughout the film, we see Serena Williams being in the shadows of Venus
+Williams who’s receiving more private training and is assigned to compete at
+upper-level tennis matches. We, later on, see Serena competing at competitions
+that she secretly signed herself up for without her parent’s knowledge and
+surprises them with how good she plays. Richard Williams and Brandi Williams
+teach their daughters to be humble and to have good sportsmanship through their
+undefeatable wins. Richard did do not let anyone stand in his way of his plans
+for his daughter’s success both academically and in their athletics.
 
-Maecenas malesuada blandit tellus, id fringilla sem tempor eget. Morbi maximus
-euismod bibendum. Maecenas sit amet dolor ut orci tristique elementum.
-Suspendisse scelerisque porta metus, at tincidunt mi. Duis et mauris at enim
-finibus maximus. Nunc vel justo ex.
+Overall Thoughts
+----------------
+This film overall was a good watch and had many themes surrounding perseverance,
+sacrifice, family, and determination. Richard Williams achieved all the plans he
+had set for his family and daughter’s success in tennis. I was anticipating
+seeing both sides to Venus and Serena’s journey’s to success but the film was
+more on Venus which was not bad at all because I was not as familiar with her
+as I was with Serena. Hopefully there is a part two of this film to showcase
+Serena’s glory to success. *I would recommend this movie for anyone to watch*.
 
-Vivamus ultricies eros ante, nec egestas
-lorem fermentum id. Aliquam erat volutpat. Aenean tempus eu mi a elementum.
-Donec sit amet iaculis sapien. Proin imperdiet hendrerit sem quis tempus.
-Etiam metus augue, ornare consequat magna ut, malesuada mollis erat. Etiam
-porta efficitur sapien sed congue. In tristique est urna, sit amet varius
-enim finibus sed.
+Footnotes:
+^^^^^^^^^^
+.. [#f1] "`Star Thrower Entertainment <https://www.blackfilmandtv.com/trailers/trailer-to-king-richard-starring-will-smith>`_".
+    BlackFilmandTV.com . Retrieved 2021-12-13
