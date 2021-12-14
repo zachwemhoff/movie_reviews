@@ -39,6 +39,14 @@ The movie was perfectly written and showed the historical struggle of Black Amer
 The time laps between presidents towards the end of the movie highlighted the years
 that Cecil "wasted."
 
+=============     ================
+Actors             played by
+=============     ================
+Cecil Gains        Forest Whitaker
+Louis Gains        David Oyelowo
+Gloria Gains       Oprah Winfrey
+=============     ================
+
 .. figure:: butler.jpg
    :width: 300px
 

@@ -17,6 +17,7 @@ realize that she is dead at first and she runs to get to safety. She feels like
 she lost her voice and no matter how loud she screams, no one could hear or see
 her. It is almost like he killed her twice.
 
+
 In the midst of the chaos she is witnessing her family is going through, she
 starts to accept the fact she will not be able to have her life back. Her family
 starts to go their separate ways as they grieve. We see how the father and mother
