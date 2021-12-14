@@ -1,65 +1,49 @@
 Lee Daniels' The Butler
 =========================
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
-efficitur vestibulum. Praesent lacinia tellus cursus tortor condimentum, nec
-tempus nibh aliquam. Sed id pulvinar risus. Morbi elementum odio iaculis massa
-fermentum, vitae posuere urna interdum. Quisque eu massa sapien. Ut vel nunc sit
-amet enim fermentum ultricies pharetra sit amet est.
+Lee Daniel is a writer and director who showcases the culture and struggle of
+the African American population in the States. The movie Lee Daniels' the Butler
+follows a man who was born on a plantation. It is loosely based on the life of
+Eugene Allen, who served through eight administrations.Cecil (the main character)
+witnesses his father being shot in the and was made to be come a House Negro.He
+spent years being a butler in hotels before eventually being hired as a butler
+for the White House.
 
-Effect
--------
+When his eldest son,Louis, went to college and started protesting segregation,
+Cecil was not pleased. He felt like his son was throwing his life away and causing
+trouble. Between his wife's alcohol problem, his youngest son dying in Vietnam,
+and the resentment towards his eldest son he became stressed and unhappy. To him,
+it seemed like they had come so far from when he was a child in the cotton fields
+and a House Negro and he did not see why people could not see the progress. Even
+though some progress was made, black Americans who worked at the White House were
+working **60% less** than their white counterparts.
 
-Cras pharetra ut felis nec
-feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
-congue nisi id elit fringilla varius. Quisque maximus nec nisl id egestas. Fusce
-sagittis, metus at porta eleifend, dui massa ullamcorper risus, in tempus sem
-quam id sapien. Vivamus tempor ligula id nunc lobortis posuere. Sed eget ipsum
-velit. Nulla vulputate ipsum sed magna porttitor, sit amet elementum ante ultricies.
-Nam scelerisque lectus sodales erat iaculis, vitae pellentesque magna facilisis.
+Towards the end, Cecil came to realize his son was not wrong for speaking up
+against inequality. He was feeling a sense of worthlessness and felt like he spent
+his life kissing up to people who were never going to see him as a human. The movie
+perfectly highlights the changes in tactics for protesting over the Civil Rights
+Movement. Including actual footage of the  Civil Rights Movement helped get the
+point cross of the hardship black Americans went through. It was saddening to see
+that back American born during slavery were still alive in 2008 to witness Barack
+Obama. It is great that they were able to see that but it is crazy to think that
+slavery was not that long ago. There are about only a generation and two away from
+slavery. The acting and historical accuracy added to the effect it had on the audience.
 
-Aliquam ex lorem, molestie at finibus quis, ullamcorper et purus. Pellentesque
-habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur
-ridiculus mus. Vivamus dictum interdum pulvinar.
+Messages and Review:
+----------------------
+* Don't be afraid to fight for equality
+* The younger generation's way of protesting is not ineffective
+* New approaches to problems does not make them any less effective
 
-In molestie augue id orci
-aliquet vehicula. Donec ullamcorper, lectus in molestie consequat, magna erat
-rhoncus sapien, sit amet semper ante elit non purus. Cras ac laoreet neque.
-Aenean maximus lacus elementum neque ultricies, tristique tincidunt lacus
-lobortis. Proin molestie bibendum neque et euismod. Aliquam eu dictum diam.
-Pellentesque quis porta urna.
+The movie was perfectly written and showed the historical struggle of Black Americans.
+The time laps between presidents towards the end of the movie highlighted the years
+that Cecil "wasted."
 
-Subheading
-----------
+.. figure:: butler.jpg
+   :width: 300px
 
-Aliquam tempus urna diam, eu sagittis magna porta eu. Fusce aliquam nunc vitae
-lectus vulputate, quis commodo augue molestie. Vestibulum fermentum nunc odio,
-et dapibus eros porttitor at. Phasellus auctor, elit nec ultricies fermentum,
-sem augue volutpat mi, eget malesuada metus purus ut dolor. Aenean posuere
-tortor ligula, vitae ultrices tellus eleifend ac. Morbi velit magna,
-sollicitudin vitae aliquet sed, tincidunt non enim. Vivamus tempus eros ac
-purus varius suscipit. Aliquam eu egestas metus.
+   The Weinstein Company [#f1]_
 
-Morbi augue turpis, imperdiet non turpis quis, consequat varius quam.
-Suspendisse imperdiet dapibus arcu viverra aliquam. Fusce eu mauris turpis.
-Nullam auctor, purus et imperdiet tristique, lacus lorem vehicula sapien,
-a tempus quam ex vitae mi. Cras nec lobortis mi. Integer ultricies ornare
-sagittis. Praesent elementum sem justo, vel rhoncus orci fringilla vitae.
-Sed gravida urna neque, vel convallis metus dapibus ut. Mauris euismod quam
-ante, quis interdum erat viverra id. Aliquam bibendum laoreet odio at imperdiet.
-Morbi placerat, leo id tincidunt iaculis, nulla nunc luctus massa, et vulputate
-nisi est et nibh. In gravida ut ligula non sodales. Phasellus porttitor varius
-iaculis.
 
-Maecenas malesuada blandit tellus, id fringilla sem tempor eget. Morbi maximus
-euismod bibendum. Maecenas sit amet dolor ut orci tristique elementum.
-Suspendisse scelerisque porta metus, at tincidunt mi. Duis et mauris at enim
-finibus maximus. Nunc vel justo ex.
-
-Vivamus ultricies eros ante, nec egestas
-lorem fermentum id. Aliquam erat volutpat. Aenean tempus eu mi a elementum.
-Donec sit amet iaculis sapien. Proin imperdiet hendrerit sem quis tempus.
-Etiam metus augue, ornare consequat magna ut, malesuada mollis erat. Etiam
-porta efficitur sapien sed congue. In tristique est urna, sit amet varius
-enim finibus sed.
+.. [#f1] "`The Weinstein Company <https://whysoblu.com/lee-daniels-the-butler-movie-review/>`_".
+   The Weinstein Company. 2013. Retrieved 2021-12-09.
